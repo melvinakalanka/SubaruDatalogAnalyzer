@@ -24,7 +24,7 @@ The **Subaru WRX STI ECU Log Analyzer** is a GUI-based tool for analyzing ECU lo
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/subaru-log-analyzer.git
+   git clone https://github.com/melvinranasinghe/subaru-log-analyzer.git
    cd subaru-log-analyzer
    ```
 2. Install dependencies:
